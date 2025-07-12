@@ -1,0 +1,40 @@
+*{
+    padding: 10px;
+    margin: 0;
+}
+nav{
+    display: flex;
+    background-color: aliceblue;
+    width:100%;
+}
+ 
+.pass img{
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+}
+.nav-link{
+
+margin-top: 14px;
+    margin-left: 542px;
+    
+    
+}
+#navs{
+    justify-content: space-around;
+    text-decoration: none;
+}
+#btn{
+   font-size: 8px;
+    outline: none;
+    border: none;
+}
+#search{
+  text-decoration: none;
+    font-size: 5px;
+    border: solid;
+    margin-left: -5px;
+    border-radius: 1px 10px 10px 4px;
+    border-color: rgb(18, 178, 151);
+}
+
