@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 100%;
+    height: auto;
+}
+.box{
+    margin: 10px;
+    width: 300px;
+    height: 250px;
+    background-color: rgb(194, 168, 219);
+}
+.box img{
+height: 100%;
+width: 50%;
+
+}

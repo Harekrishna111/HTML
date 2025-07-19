@@ -2,6 +2,8 @@
     padding: 10px;
     margin: 0;
 }
+
+/* navbar */
 nav{
     display: flex;
     background-color: aliceblue;
